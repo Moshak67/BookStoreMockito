@@ -1,2 +1,2 @@
 # BookStoreMockito
-TDD Mockito Exercise
+TDD Mockito Practice
